@@ -1,6 +1,6 @@
-package com.dianping.jdeferred;
+package com.dianping.jpromise;
 
-import com.dianping.jdeferred.impl.SimpleDeferred;
+import com.dianping.jpromise.impl.SimpleDeferred;
 
 
 /**

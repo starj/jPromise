@@ -1,6 +1,6 @@
-package com.dianping.jdeferred.impl;
+package com.dianping.jpromise.impl;
 
-import com.dianping.jdeferred.Promise;
+import com.dianping.jpromise.Promise;
 
 public class OneResult<R> {
     private final int index;

@@ -1,8 +1,8 @@
-package com.dianping.jdeferred.impl;
+package com.dianping.jpromise.impl;
 
-import com.dianping.jdeferred.Callback;
-import com.dianping.jdeferred.Deferred;
-import com.dianping.jdeferred.Promise;
+import com.dianping.jpromise.Callback;
+import com.dianping.jpromise.Deferred;
+import com.dianping.jpromise.Promise;
 
 
 

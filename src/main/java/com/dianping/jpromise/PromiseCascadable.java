@@ -1,4 +1,4 @@
-package com.dianping.jdeferred;
+package com.dianping.jpromise;
 
 import java.nio.channels.Pipe;
 

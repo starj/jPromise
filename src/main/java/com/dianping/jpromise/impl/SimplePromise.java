@@ -1,12 +1,12 @@
-package com.dianping.jdeferred.impl;
+package com.dianping.jpromise.impl;
 
 import java.util.List;
 import java.util.concurrent.CopyOnWriteArrayList;
 
-import com.dianping.jdeferred.Callback;
-import com.dianping.jdeferred.CallbackException;
-import com.dianping.jdeferred.Promise;
-import com.dianping.jdeferred.PromiseCascadable;
+import com.dianping.jpromise.Callback;
+import com.dianping.jpromise.CallbackException;
+import com.dianping.jpromise.Promise;
+import com.dianping.jpromise.PromiseCascadable;
 
 /**
  *

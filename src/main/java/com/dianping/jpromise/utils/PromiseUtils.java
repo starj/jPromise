@@ -1,7 +1,7 @@
-package com.dianping.jdeferred.utils;
+package com.dianping.jpromise.utils;
 
-import com.dianping.jdeferred.Promise;
-import com.dianping.jdeferred.impl.SimpleDeferred;
+import com.dianping.jpromise.Promise;
+import com.dianping.jpromise.impl.SimpleDeferred;
 
 public class PromiseUtils {
     public static<T> Promise<T> getResolvedPromise(T result) {

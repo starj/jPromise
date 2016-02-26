@@ -1,4 +1,4 @@
-package com.dianping.jdeferred.impl;
+package com.dianping.jpromise.impl;
 
 import java.util.ArrayList;
 import java.util.Iterator;

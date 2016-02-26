@@ -1,4 +1,4 @@
-package com.dianping.jdeferred;
+package com.dianping.jpromise;
 
 import java.util.Iterator;
 
@@ -6,10 +6,13 @@ import junit.framework.Assert;
 
 import org.junit.Test;
 
-import com.dianping.jdeferred.impl.MasterDeferred;
-import com.dianping.jdeferred.impl.MasterResult;
-import com.dianping.jdeferred.impl.OneResult;
-import com.dianping.jdeferred.impl.SimpleDeferred;
+import com.dianping.jpromise.Callback;
+import com.dianping.jpromise.Promise;
+import com.dianping.jpromise.PromiseCascadable;
+import com.dianping.jpromise.impl.MasterDeferred;
+import com.dianping.jpromise.impl.MasterResult;
+import com.dianping.jpromise.impl.OneResult;
+import com.dianping.jpromise.impl.SimpleDeferred;
 
 public class CascadePromiseTest{
         

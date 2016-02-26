@@ -1,9 +1,9 @@
-package com.dianping.jdeferred.impl;
+package com.dianping.jpromise.impl;
 
 import java.util.concurrent.atomic.AtomicInteger;
 
-import com.dianping.jdeferred.Callback;
-import com.dianping.jdeferred.Promise;
+import com.dianping.jpromise.Callback;
+import com.dianping.jpromise.Promise;
 
 /**
  * This will return a special Promise called {@link MasterDeferred}. In short,
